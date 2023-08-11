@@ -7,6 +7,8 @@ I have only uploaded the C# scripts used in the simulation.
 The verticesandedges script is where the code for creating the actual DNA molecule is located.
 The flyViewer script helps you to move around in the VR headsets and see different sides of the DNA molecule.
 
+I have attached an apk file that can be used to view the DNA molecule in VR headsets.
+
 Preview of how the DNA molecule looks in the headsets
 
 ![image](https://github.com/rutikang/DNA-molecule-/assets/117582332/131df250-23ab-4bc7-91ca-217bccaf2262)
